@@ -14,7 +14,7 @@ Custom textures for the DiamondFire code items.
   - [ ] Sound Effect
   - [ ] Particle Effect
   - [ ] Potion Effect
-  - [ ] Dynamic Variable
+  - [x] Dynamic Variable
   - [ ] Game Value
     - [ ] Current Health
     - [ ] Maximum Health
