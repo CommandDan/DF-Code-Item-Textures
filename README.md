@@ -11,11 +11,11 @@ Custom textures for the DiamondFire code items.
   - [ ] Text
   - [ ] Number
   - [ ] Location
-  - [ ] Sound Effect
+  - [x] Sound Effect
   - [ ] Particle Effect
   - [ ] Potion Effect
   - [x] Dynamic Variable
-  - [ ] Game Value
+  - [x] Game Value
     - [ ] Current Health
     - [ ] Maximum Health
     - [ ] Current Food Level
