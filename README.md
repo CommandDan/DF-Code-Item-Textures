@@ -2,7 +2,9 @@
 Custom textures for the DiamondFire code items.
 # Completed Items
 **Note:** Items that trigger menus should also be skinned.
+
 **2. Note:** An item counts as completed when both textures and properties are commited.
+
 - [ ] Reference Book
 - [ ] The Not Arrow
 - [ ] Variables
